@@ -6,5 +6,5 @@ Toronto, ON, Canada
 
 CONTACT ME:
 
-dmytriiev.yevhenii@gmail.com;
+dmytriiev.yevhenii@gmail.com <br>
 www.linkedin.com/in/yevhenii-dmytriiev
